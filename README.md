@@ -2,6 +2,8 @@
 
 **RestoPOS** is a browser-based Point of Sale (POS) simulation designed for restaurants and cafes, featuring a sleek **Glassmorphism** UI. It manages tables, orders, and payments entirely in the browser using **LocalStorage**, requiring no backend or database setup.
 
+## 🔗 Live site: https://emiryksell.github.io/Order-Tracking/
+
 ## 🌟 Features
 
 * **Table Management:** 12-table grid view with instant status tracking. Occupied tables feature a glowing "Pulse" animation.
